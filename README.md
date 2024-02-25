@@ -8,7 +8,7 @@ WebRTC (Web Real-Time Communication) is a set of protocols and APIs that enable 
 
 ## Requirements
 
-To run this application, ensure you have the necessary dependencies installed. You can install them using pip with the following command:
+To run this application, ensure you have **python>=3.10** and the necessary dependencies installed. You can install the dependencies using pip with the following command:
 
 ```python
 pip install -r req.txt
